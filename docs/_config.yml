@@ -2,7 +2,7 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+baseurl: "/lawsonmc"
 siteIcon: media/android-chrome-192x192.png
 siteYear: 2020
 siteFooterlink: https://github.com/coffeebank/moonrise
@@ -11,15 +11,15 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
+serverName: LawsonMC
+serverDescription: A Minecraft server where thr LawsonMC OG's hang out!
 serverIP: 79.46.31.53:3498
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: hhttps://discord.gg/Cg9amdAPq6
+discordServerID: 638050273591427121
+discordChannelID: 804356803336732682
 
 
 # Navbar Links at the top of the page
